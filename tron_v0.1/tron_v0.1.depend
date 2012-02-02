@@ -1,0 +1,48 @@
+# depslib dependency file v1.0
+1327424445 source:/home/tomas/Dev/C++/tron_v0.1/main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<math.h>
+	<vector>
+	<GL/glut.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<unistd.h>
+	"SOIL/SOIL.h"
+	"timer.h"
+
+1326733349 source:/home/tomas/Dev/C++/tron_v0.1/actor.cpp
+	"actor.h"
+
+1326733363 /home/tomas/Dev/C++/tron_v0.1/actor.h
+	"body.h"
+
+1326730337 /home/tomas/Dev/C++/tron_v0.1/body.h
+
+1326507330 source:/home/tomas/Dev/C++/tron_v0.1/block.cpp
+	"block.h"
+
+1326507330 /home/tomas/Dev/C++/tron_v0.1/block.h
+
+1326727423 source:/home/tomas/Dev/C++/tron_v0.1/body.cpp
+	"body.h"
+
+1326725654 source:/home/tomas/Dev/C++/tron_v0.1/player.cpp
+	"player.h"
+
+1326725901 /home/tomas/Dev/C++/tron_v0.1/player.h
+	"actor.h"
+
+1326729665 source:/home/tomas/Dev/C++/tron_v0.1/vector3.cpp
+	<math.h>
+	"vector3.h"
+
+1326729652 /home/tomas/Dev/C++/tron_v0.1/vector3.h
+
+1326806710 source:/home/tomas/Dev/C++/tron_v0.1/timer.cpp
+	"timer.h"
+	<GL/glut.h>
+
+1326806719 /home/tomas/Dev/C++/tron_v0.1/timer.h
+
